@@ -1,0 +1,42 @@
+.cantainar1  {
+   
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    
+}
+
+.cantainar1 .cards > img{
+    height: 250px;
+    width: 200px;
+    margin: auto;
+    margin-top: 100px;
+}
+.cantainar1 .cards-body >h5{
+    text-align: center;
+    
+}
+
+.cantainar2 .cards > img{
+    height: 250px;
+    width: 200px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.cantainar2  {
+   
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.cantainar2 .cards-body >h5{
+    text-align: center;
+    
+}

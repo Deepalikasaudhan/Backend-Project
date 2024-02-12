@@ -1,0 +1,114 @@
+/* .footerMain{
+    background-color: #e6e6e6;
+    margin-top: 50px;
+    padding: 10px;
+}
+.footerCantainer{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 70%;
+}
+.footeraboutdiv{
+    display: flex;
+}
+.footeraboutdiv >div>div>div>a{
+    color: #000;
+    text-decoration: none;
+}
+a{
+    background-color: transparent;
+}
+.footeraboutdiv >div>div>div{
+    font-family: Futura,sans-serif;
+    font-size: 15px;
+    padding: 5px;
+    text-align: left;
+    width: 100%;
+}
+div {
+    display: block;
+} */
+
+.footerMain{
+  
+    background-color:
+    #e6e6e6 ;
+    padding: 10px;
+    margin-top: 100px;
+}
+.footerflexcantainer{
+    display: flex;
+}
+
+.fotterContainer{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.aboutUsDiv h3{
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.footeraboutdiv>div>div{
+    margin-right: 50px;
+}
+.footeraboutdiv>div>div>div{
+    width: 100%;
+    /* border: 1px solid green; */
+    text-align: left;
+    padding:5px;
+    font-family: Futura, sans-serif;;
+    font-size:15px;
+}
+.footeraboutdiv>div>div>div>a{
+
+    color: black;
+    text-decoration: none;
+        /* border: 1px solid green; */
+}
+.footerbutton{
+    margin-top:20px;
+    width:30%;
+    height: 40px;
+    margin-left: 600px;
+    background-color: black;
+    color: white;
+    padding: 2px;
+}
+.placeholder{
+    margin-top:20px;
+    width:30%;
+    height: 40px;
+    margin-left: 600px;
+    background-color: black;
+    color: white;
+    padding: 2px; 
+}
+
+.img-ess
+ {
+    width:250px;
+    height: 150px;
+    margin-top:50px;
+    margin-left: 600px;
+   
+} 
+.singupandsave >h3{
+    margin-left: 650px;
+    margin-top: -200px;
+}
+.singupandsave >div>p{
+    margin-left: 600px; 
+}
+ .pera{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+    
+    

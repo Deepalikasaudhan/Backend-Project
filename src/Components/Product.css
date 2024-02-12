@@ -1,0 +1,11 @@
+.slider-container .card > img {
+    height: 250px;
+    width: 200px;
+    margin: auto;
+    display: grid;
+    display: flex;
+    justify-content: space-between;
+}
+ .heading{
+    margin: center;
+}

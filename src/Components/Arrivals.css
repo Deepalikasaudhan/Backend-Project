@@ -1,0 +1,29 @@
+ .text  {
+    /* text-align: center; */
+    margin-left: 500px;
+
+}
+.caintainars .button {
+   
+    text-align: center;
+    margin-top: 20px;
+}
+.caintainars1{
+    grid-template-columns: repeat(5,1fr);
+    display: grid;
+    display: flex;
+    justify-content: space-between; 
+     
+}
+    
+
+
+.caintainars1 .cardss  >img{
+    width: 200px;
+    height: 250px;
+   
+    
+}
+.caintainars1 .cardss-text >p{
+    text-align: center;
+}

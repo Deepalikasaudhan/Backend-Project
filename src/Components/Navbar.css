@@ -1,0 +1,114 @@
+.navlogo{
+    text-align: center;
+}
+.navlogo img{
+    cursor: pointer;
+    height: 32px;
+    margin-top: 12px;
+    vertical-align: middle;
+   
+}
+.right .icon {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: auto 22;
+    padding: 10px 10px;
+    vertical-align: middle;
+    align-items: right;
+    display: flex;
+   justify-content: end;
+   margin-top: -20px;
+   
+}
+
+
+.icon{
+    display: flex;
+    font-family: Futura,sans-serif;
+    font-size: 15px;
+    letter-spacing: .15em;
+}
+
+
+.container .navbar ul{
+    display: grid;
+    grid-template-columns: repeat(9,1fr);
+    display: flex;
+    justify-content: space-between;
+    margin: auto 70px auto 70px;
+   
+
+}
+
+.navbar ul li>a{
+    text-decoration: none;
+   color: #000;
+}
+
+.caintainer-side .centers div>li{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.caintainer-side .centers div>li>a{
+    text-decoration: none;
+    color: red;
+   
+}
+.right{
+    margin-left:  250px;
+    margin-top: 10px;
+    
+}
+.left{
+    margin-top: -580px;
+}
+.right1{
+    margin-left:  250px;
+    margin-top: 10px;
+}
+.left1{
+    margin-top: -550px;  
+}
+.rig{
+    margin-left:  550px;
+    margin-top: -390px;
+}
+.right2{
+    margin-left:  800px;
+    margin-top: -250px;
+}
+.li2{
+    margin-left: 270px;
+    margin-top: -450px;
+}
+
+.li3{
+    margin-top: -350px;
+    margin-left: 600px;
+}
+.lig2{
+    margin-left: 200px;
+}
+.lig1{
+    margin-top: -250px;
+}
+.list1{
+    margin-left: 250px;
+}
+.list2{
+    margin-top: -540px;
+}
+.jewlery1{
+    margin-left: 250px;
+}
+.jewlery2{
+    margin-top: -270px;
+}
+
+.nav > a{
+    text-decoration: none;
+    color: red;
+}
+
